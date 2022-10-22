@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58788357910",
+    "project_id": "kayou-47924",
+    "storage_bucket": "kayou-47924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58788357910:android:28985ffa03d799c5a3d237",
+        "android_client_info": {
+          "package_name": "com.example.mine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58788357910-dnk7tpdbgv1jd5evtccdumtogm1dg5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJkCK9h1y4pm9Hr8iKVjLNJTBzFbedw7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58788357910-dnk7tpdbgv1jd5evtccdumtogm1dg5k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
